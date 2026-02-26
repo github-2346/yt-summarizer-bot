@@ -14,7 +14,7 @@ Send a YouTube link → get a structured summary → receive answers grounded in
 - 👥 Handles multiple users simultaneously
 - 🧩 Command-based interaction
 
-## 🧠 User Flow
+## User Flow
 
 ### 1. Send a YouTube Link
 
@@ -55,7 +55,7 @@ This topic is not covered in the video.
 /lang English    → Switch back
 ```
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 TG_YT_summarizer/
@@ -77,7 +77,7 @@ TG_YT_summarizer/
 └── README.md
 ```
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - Python  
 - python-telegram-bot  
@@ -86,7 +86,7 @@ TG_YT_summarizer/
 - Telegram Bot API  
 - Render (deployment)
 
-## 🚀 Local Setup
+##  Local Setup
 
 ### 1. Clone repository
 
